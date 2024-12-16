@@ -1,0 +1,36 @@
+Category: Electronics
+Name: Smartphone X100
+Price: $699
+Description: A sleek smartphone with a powerful processor and high-resolution display.
+Features: 6.5-inch AMOLED display, 128GB storage, Dual cameras
+
+Category: Electronics
+Name: Noise Cancelling Headphones
+Price: $199
+Description: Over-ear headphones with active noise cancellation for immersive audio.
+Features: Bluetooth 5.0, 30-hour battery life, Foldable design
+
+Category: Electronics
+Name: Smartwatch Pro
+Price: $299
+Description: A feature-packed smartwatch for fitness tracking and notifications.
+Features: Heart rate monitor, GPS, Water-resistant
+
+Category: Electronics
+Name: 4K Ultra HD TV
+Price: $899
+Description: A 55-inch 4K Ultra HD television with vivid colors and smart features.
+Features: HDR10+, Voice control, Built-in streaming apps
+
+Category: Electronics
+Name: Gaming Laptop Z
+Price: $1499
+Description: High-performance gaming laptop with advanced graphics.
+Features: 16GB RAM, NVIDIA RTX 3060, RGB keyboard
+
+Category: Fashion
+Name: Casual Sneakers
+Price: $59
+Description: Comfortable sneakers for everyday wear.
+Features: Breathable fabric, Non-slip sole, Lightweight design
+
