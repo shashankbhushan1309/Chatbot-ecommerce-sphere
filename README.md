@@ -1,4 +1,5 @@
 # Chatbot-ecommerce-sphere
+![chatbot1](https://github.com/user-attachments/assets/0f0f6135-2d76-410e-bc84-ff155bc4b581)
 
 # Modern RAG Chatbot
 
